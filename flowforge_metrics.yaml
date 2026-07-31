@@ -1,0 +1,17 @@
+total_failures_seen: 1
+total_patterns_matched: 0
+total_new_diagnoses: 1
+total_auto_fixes: 0
+total_tokens_used: 2539
+total_tokens_saved: 0
+unique_patterns_count: 3
+pattern_match_rate: 0.0
+top_patterns: []
+daily:
+- date: '2026-07-31'
+  failures_seen: 1
+  patterns_matched: 0
+  new_diagnoses: 1
+  auto_fixes_applied: 0
+  tokens_used: 2539
+  tokens_saved: 0
