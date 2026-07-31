@@ -2,7 +2,7 @@ name: FlowForge CI Watch
 
 on:
   workflow_run:
-    workflows: ["tox"]
+    workflows: ["tox", "FlowForge Test Lint"]
     types: [completed]
 
 permissions:
